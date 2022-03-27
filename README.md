@@ -1,8 +1,8 @@
-### Hello hello! I'm Britt Lawson. 👋
-
 <p align = "center">
-<img width="250" height="60" src="https://drive.google.com/file/d/1Dj8ySxDA0-dpRKOU1Ks2877JINo_4JPw/view?usp=sharing" alt="my banner">
+<img width="1200" height="200" src="https://user-images.githubusercontent.com/97564176/160261029-a1e747dc-2b17-4647-955c-1b088c0f0f60.jpg" alt="my banner">
 </p>
+
+### Hello, hello! I'm Britt Lawson. 👋
   
 🔭 I’m currently working my way through a 14-week full-stack coding bootcamp. 
 
