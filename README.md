@@ -1,5 +1,5 @@
 <p align = "center">
-<img width="1200" height="200" src="https://user-images.githubusercontent.com/97564176/160261029-a1e747dc-2b17-4647-955c-1b088c0f0f60.jpg" alt="my banner">
+<img width="1200" height="100" src="https://user-images.githubusercontent.com/97564176/160261029-a1e747dc-2b17-4647-955c-1b088c0f0f60.jpg" alt="my banner">
 </p>
 
 ### Hello, hello! I'm Britt Lawson. 👋
