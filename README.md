@@ -4,9 +4,9 @@
 
 ### Hello, hello! I'm Britt Lawson. 👋
   
-🔭 I’m currently working my way through a 14-week full-stack coding bootcamp. 
+🔭 I’m a bootcamp grad who leapt from nursing to software and now works as a full-stack dev. 
 
-🌱 I’m currently learning and working with Java, PostgreSQL, JavaScript, Git, HTML, CSS, Vue.js, Spring Boot, IntelliJ, Junit.
+🌱 I’m currently learning and working with JavaScript, TypeScript, Vue 3, Java, PostgreSQL, Spring Boot, IntelliJ, Junit, Jest, Cypress.
 
 📫 How to reach me: brittlawsonRN@gmail.com
 
